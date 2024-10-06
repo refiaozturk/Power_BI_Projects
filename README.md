@@ -2,7 +2,9 @@
 
 Welcome to my repository! This space is dedicated to showcasing various **Power BI** projects I have worked on, using cleaned and organized datasets to create interactive dashboards and reports.
 
+<p align="center">
 <img src="https://images.datacamp.com/image/upload/v1724169856/image_ff55d03003.png" width="500" height="500"/>
+</p>
 
 ## Overview
 
