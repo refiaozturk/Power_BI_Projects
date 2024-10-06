@@ -29,7 +29,6 @@ The datasets used come from a range of industries and analysis types. Each Power
 
 ## Contact
 Feel free to reach out if you have any questions or feedback regarding the projects.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" width="100" height="90"/>
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/refiaozturk)
+<p align="left">
+<a href="https://linkedin.com/in/refiaozturk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="refiaozturk" height="90" width="100" /></a>
+</p>
