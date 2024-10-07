@@ -1,36 +1,48 @@
-# Netflix Dashboard Project
+# Global Superstore Power BI Dashboard Project
 
-This repository contains a Power BI dashboard created to analyze Netflix content. The dashboard visually presents information such as content types, distribution by years, and the most popular actors.
+<p align="center">
+<img src="https://img.nbc.com/files/images/2020/9/30/Superstore-S6-Logo-1920x1080.jpg" width="1000" height="450"/>
+</p>
 
-![image](https://github.com/user-attachments/assets/b3b99eb4-f7bb-416e-bd5d-ccda4c2794ce)
+This project includes a comprehensive Power BI dashboard based on the **Global Superstore** dataset, consisting of three main analysis pages:
 
-## Contents
+- **Product Base Analysis**
+- **Customer Base Analysis**
+- **Region Base Analysis**
 
-- **Power BI Dashboard**: .pbix file related to this project
-- **Dataset**: .csv file used to create the dashboard
+### Techniques and Tools Used:
+- **DAX Formulas**: DAX formulas were utilized for powerful calculations and data manipulation.
+- **Power BI Visualization Tools**: Various charts, tables, and KPIs were used for data visualization.
+- **Tooltip (for Region)**: A customized tooltip page was created for providing detailed information in regional analyses.
+- **Drillthrough (for Category)**: A drillthrough page was added for in-depth category-based analysis.
 
-## Dashboard Features
+### Pages:
+- **Overview Page**: This is the overview page of the project. You can access related pages using this page.
+![image](https://github.com/user-attachments/assets/e815c308-5515-4c63-82e6-0901fc2d82ee)
 
-![image](https://github.com/user-attachments/assets/abda7fdb-1a3d-496d-b6cc-750c5653aa36)
+- **Product-Based Analysis**: Visualization of sales performance and product popularity.
+![image](https://github.com/user-attachments/assets/6edd148e-0c92-49a4-8619-34269647911d)
 
-1. **Count of Titles**: A total of 8,798K titles.
-2. **Count of Countries**: 90 different countries.
-3. **Count of Genres**: 37 different genres.
-4. **Year Slicer**: Filtering for the year can be done with this slicer.
-5. **Distribution of Types**: This pie chart shows the distribution of content according to whether it is a movie or a TV shows.
-6. **Distribution of Contents by Seasons**: This chart shows the distribution of content numbers according to seasons.
-7. **Top 5 Genre**: This chart visually represents the distribution of content by genre in a bar format, showcasing which genres are produced more frequently and are popular.
-8. **Map Chart**: The worldwide distribution of Netflix content is visualized on a map. Countries are represented in different colors based on content types.
-9. **Count of Contains by Year and Type**: Distribution of contents over the years and their types.
-10. **Top 5 Actors**: The actors with the most roles.
-11. **Directors and Genres**: Content count by the top 10 directors.
+- **Customer-Based Analysis**: Detailed breakdowns of customer demographics, order numbers, and total spending.
+![image](https://github.com/user-attachments/assets/510b9df7-937b-4f84-8a6c-7573cc2ed4e1)
 
-The dashboard allows you to analyze Netflix's content data to see which genres and actors stand out.
+- **Region-Based Analysis**: Analysis of the regional distribution of sales and customer base.
+![image](https://github.com/user-attachments/assets/cd739aca-a5e0-4479-aaae-dad7a98f397d)
+
+- **Tooltip Page**: This page shows the two best-selling products by region.
+![image](https://github.com/user-attachments/assets/1db4aee5-a69d-4b54-9169-fcf814bf3b11)
+
+- **Drillthrough Page**: This page shows yearly, quarterly, monthly and daily sales charts by category, total sales by date and their cumulative totals in a tabe chart.
+![image](https://github.com/user-attachments/assets/a472e46d-4b5c-4e08-ac10-875ceb2058ce)
+
+### Project Video
+[You can reach the video of this project here!](https://www.linkedin.com/posts/refiaozturk_powerbi-dataanalysis-dax-activity-7246859046576672768-TkI5?utm_source=share&utm_medium=member_desktop)
 
 ## Usage Instructions
 
 1. **Open the .pbix file**: You can view the dashboard by opening the .pbix file with Power BI Desktop.
 2. **Examine the dataset**: Open the .csv file with Excel or another data analysis tool to review the contents.
+3. **Import icons to your dashboard**: You can use icons for your dashboard.
 
 ## Contact
 
