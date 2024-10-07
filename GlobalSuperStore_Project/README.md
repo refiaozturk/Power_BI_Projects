@@ -18,22 +18,22 @@ This project includes a comprehensive Power BI dashboard based on the **Global S
 
 ### Pages:
 - **Overview Page**: This is the overview page of the project. You can access related pages using this page.
-![image](https://github.com/user-attachments/assets/e815c308-5515-4c63-82e6-0901fc2d82ee)
+![image](https://github.com/user-attachments/assets/be20b847-14dd-4d13-8b6b-3e47863d512b)
 
 - **Product-Based Analysis**: Visualization of sales performance and product popularity.
-![image](https://github.com/user-attachments/assets/6edd148e-0c92-49a4-8619-34269647911d)
+![image](https://github.com/user-attachments/assets/596eff4b-f757-48c8-9d69-1e41e134f1bf)
 
 - **Customer-Based Analysis**: Detailed breakdowns of customer demographics, order numbers, and total spending.
-![image](https://github.com/user-attachments/assets/510b9df7-937b-4f84-8a6c-7573cc2ed4e1)
+![image](https://github.com/user-attachments/assets/83991c7c-02b0-40be-94fa-78f77922390c)
 
 - **Region-Based Analysis**: Analysis of the regional distribution of sales and customer base.
-![image](https://github.com/user-attachments/assets/cd739aca-a5e0-4479-aaae-dad7a98f397d)
+![image](https://github.com/user-attachments/assets/7d3cf07d-95cb-49ef-b27e-b497dd2a5b9f)
 
 - **Tooltip Page**: This page shows the two best-selling products by region.
-![image](https://github.com/user-attachments/assets/1db4aee5-a69d-4b54-9169-fcf814bf3b11)
+![image](https://github.com/user-attachments/assets/71824a3d-a6c2-4dba-bf40-c09ab0d71fef)
 
 - **Drillthrough Page**: This page shows yearly, quarterly, monthly and daily sales charts by category, total sales by date and their cumulative totals in a tabe chart.
-![image](https://github.com/user-attachments/assets/a472e46d-4b5c-4e08-ac10-875ceb2058ce)
+![image](https://github.com/user-attachments/assets/808a6298-c256-4df2-aa00-973545dbf0e8)
 
 ### Project Video
 [You can reach the video of this project here!](https://www.linkedin.com/posts/refiaozturk_powerbi-dataanalysis-dax-activity-7246859046576672768-TkI5?utm_source=share&utm_medium=member_desktop)
