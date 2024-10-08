@@ -21,7 +21,7 @@ This project is a **Power BI** analysis focusing on game sales and player demogr
 ![image](https://github.com/user-attachments/assets/abba8bd9-7645-461c-a727-02a34c650644)
 
 ### Project Video
-[You can reach the video of this project here!]()
+[You can reach the video of this project here!](https://www.linkedin.com/posts/refiaozturk_powerbi-dataanalysis-gamesales-activity-7249431870738751489-46xv?utm_source=share&utm_medium=member_desktop)
 
 ## Features
 - Analysis is conducted using data from 50K games, 5 platforms, 6 game genres, and 5 regions.
